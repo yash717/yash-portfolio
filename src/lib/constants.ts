@@ -253,6 +253,22 @@ export const SITE_CONTENT = {
   ],
   projects: [
     {
+      name: "Personal Portfolio",
+      description:
+        "Modern, responsive portfolio website showcasing professional journey, skills, projects, and achievements. Built with Next.js 16, React 19, TypeScript, Tailwind CSS, Shadcn/UI, and Framer Motion. Deployed on Vercel with Bun.",
+      category: ["Frontend"],
+      image: "/assets/og.png",
+      url: "https://github.com/yash717/yash-portfolio",
+      hosted_url: "https://yash-portfolio-green.vercel.app",
+      technologies: [
+        { name: "Next.js", icon: SiNextdotjs },
+        { name: "React", icon: SiReact },
+        { name: "TypeScript", icon: SiTypescript },
+        { name: "Tailwind", icon: SiTailwindcss },
+        { name: "Vercel", icon: SiVercel },
+      ],
+    },
+    {
       name: "Spotter AI — ELD Trip Planner",
       description:
         "HOS-compliant route planning and ELD log generation for modern fleets. Full-stack platform with Django REST API (spotter-api on Render) and Next.js 16 frontend (Vercel). Features end-to-end trip planning, FMCSA compliance engine (70hr/8day cycle, 11hr drive limit), FMCSA daily logs, real-time collaboration for Drivers/Dispatchers/Admins, and cross-origin auth. Integrates OpenRouteService for smart routing with Leaflet maps. API Docs: spotter-api-ld45.onrender.com/api/docs/",
