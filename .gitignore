@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Build
+.next/
+out/
+
+# Lockfiles (use bun.lock only)
+package-lock.json
+
+# Env
+.env*.local
