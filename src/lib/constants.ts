@@ -80,7 +80,7 @@ export const SITE_CONFIG = {
 export const SITE_CONTENT = {
   hero: {
     name: "Yash Dubbalwar",
-    summary: `Full-Stack Engineer crafting impactful web solutions that boost user engagement and streamline operations`,
+    summary: `Developing human experiences in code`,
     currentWork: "Junior Software Engineer at Humancloud",
     image: "/hero-profile.png",
     stats: [
