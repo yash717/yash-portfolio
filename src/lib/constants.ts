@@ -257,9 +257,9 @@ export const SITE_CONTENT = {
       description:
         "Modern, responsive portfolio website showcasing professional journey, skills, projects, and achievements. Built with Next.js 16, React 19, TypeScript, Tailwind CSS, Shadcn/UI, and Framer Motion. Deployed on Vercel with Bun.",
       category: ["Frontend"],
-      image: "/assets/og.png",
+      image: "/assets/projects/yash-portfolio.png",
       url: "https://github.com/yash717/yash-portfolio",
-      hosted_url: "https://yash-portfolio-green.vercel.app",
+      hosted_url: "https://yash717-portfolio.vercel.app",
       technologies: [
         { name: "Next.js", icon: SiNextdotjs },
         { name: "React", icon: SiReact },
