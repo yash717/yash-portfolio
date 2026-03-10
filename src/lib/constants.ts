@@ -63,7 +63,7 @@ export const SITE_CONFIG = {
     },
   ],
   menuItems: [
-    { label: "Resume", href: "https://www.linkedin.com/in/yash7171/" },
+    { label: "Resume", href: "https://drive.google.com/file/d/1Kf7mDar-SJX2Cn0JCDlBAD99xDUHP7m3/view?usp=sharing" },
     { label: "Experience", href: "#experience" },
     { label: "Projects", href: "#projects" },
     { label: "Skills", href: "#skills" },
